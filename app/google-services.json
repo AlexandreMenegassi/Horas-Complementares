@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1098061321631",
+    "firebase_url": "https://horas-complementares.firebaseio.com",
+    "project_id": "horas-complementares",
+    "storage_bucket": "horas-complementares.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098061321631:android:5908b500cc0108f2",
+        "android_client_info": {
+          "package_name": "com.example.horascomplementares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098061321631-40e287m9a4q4pgpqvkcjhjdaak5ch308.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.horascomplementares",
+            "certificate_hash": "4ae3d42982758497c9de8b09573329f37827836e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3dPQUImFgB5PG3ZQASUfODb6ep2V_2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098061321631-ncg772sro3r0tphbt6jt0e50u5gc1h2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--  Background Layout Color -->
+    <color name="colorBackgroundApp">#FFFFFF</color>
+
+    <!-- Backgroun Color -->
+    <color name="colorFormBranco">#FFFFFF</color>
+
+    <!-- String Color -->
+    <color name="colorStringPreto">#0F0F0F</color>
+    <color name="colorStringAzul">#011C69</color>
+
+</resources>

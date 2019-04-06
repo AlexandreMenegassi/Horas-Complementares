@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Horas Complementares</string>
+
+    <!-- Activity Login -->
+    <string name="action_sign_in">Entrar</string>
+    <string name="title_hint_email">Email</string>
+    <string name="title_hint_senha">Senha</string>
+    <string name="title_activity_login">Logar no Sistema</string>
+    <string name="title_register_login">Cadastre-se</string>
+    <string name="title_register_usuario">Cadastrar</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Este endereço de email é inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha incorreta.</string>
+
+</resources>
